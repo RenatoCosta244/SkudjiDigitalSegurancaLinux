@@ -28,10 +28,10 @@ DISCO->
 ## Limitacoes
 Nao tive limitacoes porque instalei a maquina virtual no meu computador local,
 tive dificuldades como ligar a virtualizacao no meu bioos da maquina local, transferencias dos documentos 
-README.md, ambiente.md e comandos-topicos-01.txt mais consegue oltrapasar estas dificuldades com ajuda da IA.
+README.md, ambiente.md e comandos-topicos-01.txt mais consegue ultrapasar estas dificuldades com ajuda da IA.
 Tive que criar um utilizador atraves do comando na linux porque dorante a instalacao do linux criei  
 
 ## Observacoes
-Tive que ir para o bios do servidor linux criar um utilizador do servidor atraves de comandos, porque durante a instalacao do servidor 
-criar um utilizador mais nao sei qual foi o problema que nao guardou o utilizador, mais consegue ultrapassar esta dificuldade
+Tive que ir para o bioos do servidor linux, criar um utilizador do servidor atraves de comandos, porque durante a instalacao do servidor 
+criei um utilizador mais nao sei qual foi o problema, porque nao guardou o utilizador, mais consegue ultrapassar esta dificuldade
 Foi de muito agrado esta esperiencia. 
