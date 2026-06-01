@@ -1,0 +1,14 @@
+Comandos utilizados
+ls -l -> Lista do dados encontrados no ambiente
+nano nomeficheiro -> Cria um ficheiro de dederminado tipo
+sudo apt update && sudo apt upgrade -y ->Atualiza o sistema
+sudo ufw enable -> Configura o firewell
+ssh renato244costaip -> Liga via ssh do windows
+mkdir nome -> Cria um directorio
+sudo systemctl status ssh -> verifica o status do ssh
+sudo systemctl start ssh -> inicia o ssh
+sudo systemctl enable ssh -> inicia o ssh
+sudo apt install openssh-server -y ->instala o ssh se nao estiver instalado
+clear -> Limpa o terminal
+control o ->Guarda escritura feito no ficheiro
+control c ->Fecha o ficheiro
