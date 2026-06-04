@@ -1,0 +1,15 @@
+lscpu -> Informacoes completas do CPU
+nproc -> Numeros de cores
+mkdir -> Criar directorios
+nano nome.tipodeficheiro -> Cria tipo especifico de ficheiro
+
+mkdir topico-02-individual
+cd topico-02-individual
+nano comandos-utilizados.txt
+nano permissoes.md
+nano acesso-remoto.md
+mkdir evidencias
+whoami ver o utilizador
+id dados mais completo do utilizador
+gruops utilizadores 
+sudo e super utilizador, permite executar comandos como administrador
