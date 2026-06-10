@@ -1,0 +1,7 @@
+   mkdir -> cria arquivos
+   touch -> cria ficheiros
+   cd -> entra em uma pasta
+   ls -l -> verifica a estrutura criada
+   sudo systemctl start nginx
+   sudo systemctl enable nginx
+   sudo systemctl status nginx
